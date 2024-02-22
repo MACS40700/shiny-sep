@@ -1,0 +1,23 @@
+/* app-specific css */
+
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+  body {
+  background-color: #ffefc8;
+  color: #8300a5; /* text color */
+}
+
+.irs--shiny .irs-bar, .irs--shiny .irs-single {
+  border: #8300a5;
+  background: #8300a5;
+}
+)
+
+/* Make text visible on inputs */
+.shiny-input-container {
+  color: #8300a5;
+}
